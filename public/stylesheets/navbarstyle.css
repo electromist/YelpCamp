@@ -1,0 +1,10 @@
+/* Change font to Poppins */
+body,
+button,
+h1,
+h5,
+p,
+small,
+a {
+    font-family: 'Poppins', sans-serif;
+}

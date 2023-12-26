@@ -1,0 +1,15 @@
+body {
+    background-color: #ffffff;
+    color: white; /* Set text color to white for better visibility */
+}
+
+/* Change font to Poppins */
+body,
+button,
+h1,
+h5,
+p,
+small,
+a {
+    font-family: 'Poppins', sans-serif;
+}
